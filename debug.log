@@ -13,3 +13,31 @@
 [0928/081907:ERROR:process_reader_win.cc(233)] ReadMemory at 0xed2000 of 57344 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
 [0928/081907:ERROR:crash_report_exception_handler.cc(98)] WriteEverything failed
 [0928/081907:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
+[1021/181120:ERROR:process_info.cc(608)] range at 0xff469000, size 0x230 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff46f000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff465000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff468000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff33f000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff339000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff336000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff333000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff330000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff33c000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff32d000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff32a000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff327000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff324000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff321000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff31e000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff31b000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff318000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff315000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff312000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff30f000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff30c000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff309000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff306000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff303000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff300000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff2fd000, size 0xf84 fully unreadable
+[1021/181121:ERROR:process_info.cc(608)] range at 0xff2fa000, size 0xf84 fully unreadable
